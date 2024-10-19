@@ -1,7 +1,7 @@
 # SolaraX Executor - Best Executor for Roblox Games
 
 ## 📜 Overview
-**SolaraX Executor** is a powerful script executor for Roblox, allowing you to run advanced scripts across multiple Roblox games.
+**Solara Executor** is a powerful script executor for Roblox, allowing you to run advanced scripts across multiple Roblox games.
 
 ## 🛠️ Key Features
 - **Robust Execution**: Runs complex scripts smoothly.
@@ -11,7 +11,7 @@
      
       - ## 🚀 Setup
       - 1. **Download**
-        2. 2. **Run**: Launch `Loader.exe` with admin rights.
+        2. 2. **Run**: Launch `Solarabootstrapper.exe` with admin rights.
            3. 3. **Execute**: Load your scripts and start using.
              
               4. ### 📊 Tags:
